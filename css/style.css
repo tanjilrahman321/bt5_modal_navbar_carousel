@@ -1,0 +1,22 @@
+.mycap{
+  bottom: 40%!important;
+}
+
+.menu_hover:hover{
+  color: #FFC107!important;
+}
+
+.control_icon{
+  border: 2px solid #FFC107 !important;
+}
+
+.carousel-indicators button{
+  width: 25px !important;
+  height: 25px !important;
+  border-radius: 100% !important;
+  border: 2px solid #FFC107!important;
+}
+
+.custom_prev_next{
+  top: 90%;
+}
